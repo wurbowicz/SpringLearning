@@ -17,7 +17,7 @@ public class AnnotationBeanScopeDemoApp {
 
         // check if they are the same
         boolean result = (theCoach == alphaCoach);
-        
+
         // print out the results
         System.out.println("\nPointing to the same object: " + result);
 
